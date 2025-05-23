@@ -59,4 +59,4 @@ There should be two new files resulting called asl_mlp_modell.pth and label_enco
 
 ## For reference
 To find the list of symbols used in the dataset go to https://www.kaggle.com/datasets/grassknoted/asl-alphabet and open the testing folder to see examples of the sign letters used. The images were all right handed so the model works better if you use your right hand. 
-
+![Demo image](resources/demo.png)
